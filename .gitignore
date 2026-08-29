@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+
+# OS files
+.DS_Store
